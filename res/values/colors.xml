@@ -112,6 +112,8 @@
     <color name="agenda_item_where_text_color">#FF666666</color>
     <!-- Color of the event location's text in an agenda item  -->
     <color name="agenda_item_where_declined_text_color">#66666666</color>
+    <!-- Color of title in the calendar view selection menu -->
+    <color name="calendar_top_title_menu_text_color">#FFF2F2F2</color>
     <!-- Color of text in the calendar view selection menu -->
     <color name="calendar_view_switch_menu_text_color">#FF444444</color>
     <!-- Light color of text in the calendar view selection menu -->
