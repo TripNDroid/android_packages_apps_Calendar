@@ -27,6 +27,8 @@
 
     <color name="pressed">#330066ff</color>
 
+    <color name="badge_icon">#FFE14646</color>
+
     <color name="selection">@android:color/holo_blue_light</color>
 
     <color name="today_highlight_color">#000084c6</color>
